@@ -16,6 +16,7 @@
 		DE9C68412B8A7BFC00ED50A5 /* SegueAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE9C68402B8A7BFC00ED50A5 /* SegueAppTests.swift */; };
 		DE9C684B2B8A7BFC00ED50A5 /* SegueAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE9C684A2B8A7BFC00ED50A5 /* SegueAppUITests.swift */; };
 		DE9C684D2B8A7BFC00ED50A5 /* SegueAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE9C684C2B8A7BFC00ED50A5 /* SegueAppUITestsLaunchTests.swift */; };
+		DE9C685A2B8A7CCE00ED50A5 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE9C68592B8A7CCE00ED50A5 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		DE9C68462B8A7BFC00ED50A5 /* SegueAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SegueAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE9C684A2B8A7BFC00ED50A5 /* SegueAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegueAppUITests.swift; sourceTree = "<group>"; };
 		DE9C684C2B8A7BFC00ED50A5 /* SegueAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegueAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		DE9C68592B8A7CCE00ED50A5 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				DE9C68322B8A7BFB00ED50A5 /* Assets.xcassets */,
 				DE9C68342B8A7BFB00ED50A5 /* LaunchScreen.storyboard */,
 				DE9C68372B8A7BFB00ED50A5 /* Info.plist */,
+				DE9C68592B8A7CCE00ED50A5 /* SecondViewController.swift */,
 			);
 			path = SegueApp;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DE9C685A2B8A7CCE00ED50A5 /* SecondViewController.swift in Sources */,
 				DE9C682E2B8A7BFA00ED50A5 /* ViewController.swift in Sources */,
 				DE9C682A2B8A7BFA00ED50A5 /* AppDelegate.swift in Sources */,
 				DE9C682C2B8A7BFA00ED50A5 /* SceneDelegate.swift in Sources */,
